@@ -1,1 +1,1 @@
-Basic Rest api for practice
+practice rest api 
